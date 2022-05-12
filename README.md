@@ -13,6 +13,9 @@ And replace the Google Map API- (process.env.REACT_APP_GOOGLE_MAP_API_KEY)
 
 Demo:(no API KEY for use)
 
+since no API KEY, it may not be shown in Chrome, but may show in Safari.
+You can also touch the map to test the functions.
+
 https://google-map-api-react.herokuapp.com/
 
 

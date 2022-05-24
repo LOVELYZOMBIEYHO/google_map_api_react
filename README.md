@@ -20,4 +20,4 @@ https://google-map-api-react.herokuapp.com/
 
 
 !!!importance, turn on these API may charge much, be cafeful any useState and useEffect change may cause many requests and charge much.
-Time Zone API is the most expensive
+Every API must cap the maximum daily billable limit: https://developers.google.com/maps/faq#usage_cap
